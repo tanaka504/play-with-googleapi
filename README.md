@@ -1,0 +1,1 @@
+Google APIで遊ぶだけ
